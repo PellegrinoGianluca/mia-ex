@@ -21,3 +21,9 @@ color: aquamarine;
 a:hover{
     font-size: 10vh;
 }
+
+
+ul li:last-child{
+    color: rgb(13, 94, 94);
+    border-bottom: 10;
+}
