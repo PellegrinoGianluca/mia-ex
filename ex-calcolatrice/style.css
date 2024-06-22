@@ -1,0 +1,25 @@
+.calcolatrice {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.display {
+    grid-column: span 4;
+    background-color: #eae1e1;
+    text-align: right;
+    padding: 10px;
+}
+
+.button {
+    border: 1px solid #ec0808eb;
+    text-align: center;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.operator {
+    background-color: #15818d;
+}
