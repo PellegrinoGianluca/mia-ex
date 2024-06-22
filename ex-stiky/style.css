@@ -1,0 +1,7 @@
+body{
+    height: 150vh;
+}
+nav{
+    position: sticky;
+    top: 0;
+}
