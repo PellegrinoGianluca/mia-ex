@@ -45,4 +45,7 @@ color: blueviolet;
 .container{
     color: rebeccapurple;
     text-align: center;
+    padding: 50px;
+    margin-top: 20px;
+    border: 2px red solid;
 }
