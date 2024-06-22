@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  
+  .figlio {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid rgb(247, 10, 10);
+  }
+  
+  .figlio:th-child(1)::before {
+    content: "1. ";
+  }
+  
+  .figlio:th-child(2)::before{
+    content: "2. ";
+  }
+  
+  .figlio:th-child(3)::before {
+    content: "3. ";
+  }
+  
