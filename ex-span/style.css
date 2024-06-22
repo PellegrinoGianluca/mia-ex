@@ -11,3 +11,7 @@ display: inline;
 .span3{
     display: block;
 }
+
+.p2{
+    display: none;
+}
