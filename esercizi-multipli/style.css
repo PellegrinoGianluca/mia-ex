@@ -27,3 +27,17 @@ ul li:last-child{
     color: rgb(13, 94, 94);
     border-bottom: 10;
 }
+
+
+p{
+    color: brown;
+
+}
+
+.color{
+    color: chartreuse;
+}
+
+#color{
+color: blueviolet;
+}
