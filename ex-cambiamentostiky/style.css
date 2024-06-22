@@ -1,0 +1,11 @@
+body{
+    height: 150vh;
+}
+nav{
+    position: fixed;
+    top: 0;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
