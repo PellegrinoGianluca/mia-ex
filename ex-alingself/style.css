@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    height: 300px;
+}
+
+.item {
+    flex: 1;
+    border: 1px solid #ff0707;
+}
+
+.item.item1 {
+    align-self: flex-start;
+}
+
+.item.item2 {
+    align-self: center;
+}
