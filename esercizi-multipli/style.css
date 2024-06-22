@@ -49,3 +49,7 @@ color: blueviolet;
     margin-top: 20px;
     border: 2px red solid;
 }
+
+ul li{
+    display: inline-block;
+}
