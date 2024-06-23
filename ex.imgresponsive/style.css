@@ -1,0 +1,13 @@
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-container {
+    display: flex;
+}
+
+.image-container img {
+    flex: 1;
+    margin: 5px;
+}
