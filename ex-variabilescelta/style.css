@@ -1,0 +1,9 @@
+:root {
+    --padding-elemento: 20px;
+  }
+  
+.elemento {
+    padding: var(--padding-elemento);
+    background-color: rgb(36, 183, 232);
+ }
+  
